@@ -1,6 +1,6 @@
 {
   "name": "animedelay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny extension to anime js that imporves timeline delays.",
   "main": "animedelay.js",
   "type": "module",
