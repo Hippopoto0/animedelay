@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A tiny extension to anime js that imporves timeline delays.",
   "main": "animedelay.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
