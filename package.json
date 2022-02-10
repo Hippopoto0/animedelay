@@ -1,0 +1,19 @@
+{
+  "name": "animedelay",
+  "version": "1.0.0",
+  "description": "A tiny extension to anime js that imporves timeline delays.",
+  "main": "animedelay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanJones01/animedelay.git"
+  },
+  "author": "Daniel Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanJones01/animedelay/issues"
+  },
+  "homepage": "https://github.com/DanJones01/animedelay#readme"
+}
